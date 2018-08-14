@@ -1,2 +1,5 @@
-# Data_Fish_status_survey_of_Nordic_lakes
-Verbatim and mapped data for the Fish status survey of Nordic lakes (Tammi 2003)
+# Data: Fish status survey of Nordic lakes
+
+Verbatim and mapped data for the Fish status survey of Nordic lakes survey (Tammi 2003: http://dx.doi.org/10.1579/0044-7447-32.2.98 )
+
+Work in progress!
